@@ -2,9 +2,10 @@ Code Book
 
 This code book is used for explaining dataset in tidy.txt.
 
-Id
-    subject: Different type of subject
-    activity: Different type of activity given input
+
+Subject: Different type of subject
+
+Activity: Different type of activity given input
     
 Activity Labels
 
