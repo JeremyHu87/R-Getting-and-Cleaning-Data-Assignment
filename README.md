@@ -1,4 +1,4 @@
-# R-Getting-and-Cleaning-Data-Assignment
+# Getting and Cleaning Data Assignment
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. 
 Below is the process of getting tidy dataset:
 1) Download Zipfile
