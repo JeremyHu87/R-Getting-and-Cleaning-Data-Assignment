@@ -4,7 +4,6 @@ This code book is used for explaining dataset in tidy.txt.
 
 Id
     subject: Different type of subject
-    
     activity: Different type of activity given input
     
 Activity Labels
